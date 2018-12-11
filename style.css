@@ -1,0 +1,22 @@
+.ToBottom{
+    bottom: 0;
+    }
+.ToCenter {
+    text-align:center;
+    }
+.ToRightest{
+    float: right;
+}
+.ToLeftest{
+    text-align: left;
+}
+.BgcOlor{
+    color: white;
+    background-color: blue;
+    padding-top: 0%;
+    padding-bottom: 100%
+}
+.ButtonAlign{
+    padding-block-end: 0%;
+    width: 100%;
+}
